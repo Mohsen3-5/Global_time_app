@@ -61,7 +61,7 @@ class _HomeState extends State<Home> {
                         };
                       });
                     },
-                    label: Text('Choose location')
+                    label: Text('Edit location')
                 ,icon:Icon(
                     Icons.edit_location
                 ),),
